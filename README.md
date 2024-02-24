@@ -1,4 +1,4 @@
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png" min-width="400px" max-width="400px" width="380px" align="right" alt="Computador Image" title="Computador Image">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png" min-width="400px" max-width="400px" width="360px" align="right" alt="Computador Image" title="Computador Image">
 
 ## Eu sou o Matheus Vieira! 😉
 
