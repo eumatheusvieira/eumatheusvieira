@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Eu sou o Matheus Vieira! 😉
 
